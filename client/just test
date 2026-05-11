@@ -1,1 +1,3 @@
-
+npx create-react-app client
+npm install axios react-router-dom
+MONGO_URL=mongodb://127.0.0.1:27017/donationDB
